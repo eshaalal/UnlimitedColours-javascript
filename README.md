@@ -3,9 +3,9 @@
 This project is a simple web page that changes the background color to a random color every second when the "Start" button is clicked. The background color changing can be stopped by clicking the "Stop" button.
 
 ## Languages Used
-- **HTML
-- **CSS
-- **JavaScript
+- HTML
+- CSS
+- JavaScript
 
 
 ## Features
