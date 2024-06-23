@@ -13,4 +13,6 @@ This project is a simple web page that changes the background color to a random 
 - Changes the background color to a random color every second
 - Start and Stop functionality to control the color changing
 
+## Here I have simply used the concept of DOM Manipulation and async functions
+
 
